@@ -3,7 +3,7 @@
  * created : 02.05.2021 - 19:32
  * description:
  */
-public class MaximumDepthOfBinaryTree {
+public class MaximumDepthOfBinaryTree104 {
 
     public static void main(String[] args) {
 
